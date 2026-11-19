@@ -13,7 +13,7 @@ Works with Minecraft 1.12.2 and Forge 1.12.2. Available versions include Forge b
 5. Copy the Jenny Mod `.jar` straight into `mods`. Do not unzip it and do not put it in a subfolder.
 6. Launch the Forge profile, open Mods, and confirm Jenny Mod is listed. Test in a new world before opening an existing save.
 
-Full step-by-step install guide: https://jennymodmincraft.com/installation/
+Full step-by-step install guide: [Jenny Mod for Minecraft 1.12.2](https://jennymodmincraft.com/)
 
 ## Bedrock / Android
 
@@ -25,7 +25,7 @@ Bedrock uses `.mcpack` and `.mcaddon` files instead of Forge. Open the pack with
 - Version mismatch: the mod, Minecraft and Forge must all be the same version. A 1.12.2 mod does not load in 1.20 or 1.21.
 - Fabric: this mod needs Forge, not Fabric.
 
-Step-by-step fixes for freezes, crashes, missing dependencies, spawn eggs, textures and phone installs: https://jennymodmincraft.com/troubleshooting/
+Step-by-step fixes for freezes, crashes, missing dependencies, spawn eggs, textures and phone installs: [Jenny Mod homepage](https://jennymodmincraft.com/)
 
 ## Where to get it
 
